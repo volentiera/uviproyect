@@ -13,6 +13,7 @@ export default function Footer() {
                 </div>
                 <div className="d-md-none col-sm-3"></div>
                 <div className="col-sm-12 col-md-6 col-lg-3">
+                    <h3>Contacto:</h3>
                     <p>
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti, neque quam eius, perferendis esse, doloribus cumque vel magni eum at modi odio voluptas laudantium necessitatibus reiciendis qui in quisquam vitae.
                     </p>
