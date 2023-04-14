@@ -1,0 +1,9 @@
+.background-header{
+    background-image: url('../../assets/blob.svg');
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    color: aliceblue;
+}

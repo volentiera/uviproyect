@@ -1,0 +1,20 @@
+.logo-config{
+    height: 80px;
+    width: 80px;
+}
+.navbar-position{
+    position: initial;
+    top: 0;
+    z-index: 1;
+}
+.main-nav-link{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.3rem;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.main-nav-link:hover{
+    color: rgb(217, 234, 249);
+}

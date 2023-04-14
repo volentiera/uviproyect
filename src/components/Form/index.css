@@ -1,0 +1,16 @@
+.form-label{
+    color: aliceblue;
+}
+.btn-config{
+    height: 80px;
+    width: 185px;
+    background-color: #8e17f6;
+    color: aliceblue;
+}
+.btn-config:hover{
+    color: #ecd1f0;
+}
+
+.form-background{
+    background-color: #7721bf;
+}

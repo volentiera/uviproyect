@@ -1,0 +1,27 @@
+.footer-config{
+    height: 500px;
+    background-color: #333;
+    color: aliceblue;
+}
+@media (max-width: 576px) {
+    .footer-config{
+        height: 800px;
+    }
+    .remove-div{
+        display: none;
+    }
+}
+.copy-config{
+    height: 100px;
+    background-color: #111;
+    color: aliceblue;
+}
+
+.brands-size{
+    font-size: 2.5rem;
+}
+
+.logo-size{
+    height: 100%;
+    width: 100%;
+}
