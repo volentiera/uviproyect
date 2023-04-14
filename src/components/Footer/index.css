@@ -5,7 +5,15 @@
 }
 @media (max-width: 576px) {
     .footer-config{
-        height: 800px;
+        height: 1000px;
+    }
+    .remove-div{
+        display: none;
+    }
+}
+@media (max-width: 776px) {
+    .footer-config{
+        height: 1200px;
     }
     .remove-div{
         display: none;
